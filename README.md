@@ -1,4 +1,10 @@
-# ThinkBridge
+Question 3. Provide your feedback/improvements/suggestions as a Functional Quality Engineer and as an End - User in terms of
+
+Functionality
+Usability
+UI Aesthetics
+
+Suggestions:
 
 1. Consistency across the site should be maintained - Maintaining a similar layout on every page will make the user more familiar with the site. Now, it can be seen difference in layout for pages.
 
