@@ -1,0 +1,13 @@
+# ThinkBridge
+
+This a Nunit Test project(.Net Core)
+
+Please add  below References to the project Solution:
+
+- Selenium.Webdriver
+- Selenium.Webdriver.ChromeDriver (version should match to the Google Chrome present in your machine)
+- Selenium.support
+
+Build the solution
+Run the project via Visual studio
+
