@@ -1,5 +1,6 @@
-# ThinkBridge
+Question 2 - Instructions to run the project.
 
+_______________________________________________
 This a Nunit Test project(.Net Core)
 
 Please add  below References to the project Solution:
