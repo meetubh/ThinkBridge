@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridge", "ThinkBridge\ThinkBridge.csproj", "{25AC483B-E254-4291-9DA5-3A779F5E764B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25AC483B-E254-4291-9DA5-3A779F5E764B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25AC483B-E254-4291-9DA5-3A779F5E764B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25AC483B-E254-4291-9DA5-3A779F5E764B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25AC483B-E254-4291-9DA5-3A779F5E764B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD15FE2F-538B-43D8-B5C6-5BB8D6B455EC}
+	EndGlobalSection
+EndGlobal
