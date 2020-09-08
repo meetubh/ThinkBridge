@@ -3,12 +3,12 @@ Question 2 - Instructions to run the project.
 _______________________________________________
 This a Nunit Test project(.Net Core)
 
-Please add  below References to the project Solution:
+Please add  below References to the project Solution if required:
 
 - Selenium.Webdriver
 - Selenium.Webdriver.ChromeDriver (version should match to the Google Chrome present in your machine)
 - Selenium.support
 
 Build the solution
-Run the project via Visual studio
+Run the Test case from Test Explorer
 
